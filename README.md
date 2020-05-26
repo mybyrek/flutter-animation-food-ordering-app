@@ -4,7 +4,7 @@ A Flutter animation implementation based on [Tasty Burger](https://dribbble.com/
 
 ## Design
 The GIF below shows the inspiration concept app.
-![App Running](./docs/inspiration.gif)
+![Design](./docs/inspiration.gif)
 
 ## Implementation
 The GIF below shows this current app runnig.
