@@ -1,5 +1,5 @@
 # Flutter animation challenge 6 - food ordering app
-## Creator Qani Ajdini
+
 A Flutter animation implementation based on [Tasty Burger](https://dribbble.com/shots/4038053-Tasty-Burger-App). 
 
 ## Design
